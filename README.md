@@ -1,7 +1,7 @@
 # Week 1 Task 1: Internet, Web & Git/Github Basics
 
 ## Overview
-Well conducted research on the how the web operates, its architecture, several protocols governing it. Popular web services implemented on the web. The aim of this research is to shed light on the behind the scenes of the world wide web and its infrastructure.
+Well conducted research on how the web operates, its architecture, several protocols governing it. Popular web services implemented on the web. The aim of this research is to shed light on the behind the scenes of the world wide web and its infrastructure.
 
 ## Published Article
 https://medium.com/@oladiran.dani3l/understanding-the-web-its-protocols-and-how-it-implements-popular-services-bea74d40290d
